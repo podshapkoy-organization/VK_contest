@@ -14,6 +14,6 @@
 1. Установите необходимые библиотеки:
    ```bash
    pip install pandas matplotlib seaborn statsmodels scikit-learn xgboost joblib
-2. Запустите скрипт для предсказания:
+2. Запустите скрипт для предсказания(время выполнения скрипта занимает около 5 мин.):
     ```bash
     python script.py
